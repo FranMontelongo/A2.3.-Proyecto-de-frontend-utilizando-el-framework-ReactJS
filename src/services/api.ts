@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL;
+const API_URL = "/api";
 
 // Función reutilizable para realizar peticiones HTTP
 export async function peticionAPI(
