@@ -57,7 +57,7 @@ export function Layout() {
         <Contenedor>
 
             <Header>
-                <Logo to="/">STAºR WARS</Logo>
+                <Logo to="/">STAR WARS</Logo>
 
                 <Navegacion>
                     <Enlace to="/">Inicio</Enlace>
