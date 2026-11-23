@@ -13,6 +13,7 @@ const Header = styled.header`
     justify-content: space-between;
     align-items: center;
     padding: 20px 40px;
+    background-color: rgba(0, 0, 0, 0.8);
 `;
 
 const Navegacion = styled.nav`
